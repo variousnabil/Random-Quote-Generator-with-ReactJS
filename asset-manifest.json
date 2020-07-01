@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Random-Quote-Generator-with-ReactJS/static/css/main.6bd27ecd.chunk.css",
-    "main.js": "/Random-Quote-Generator-with-ReactJS/static/js/main.3fb98de6.chunk.js",
-    "main.js.map": "/Random-Quote-Generator-with-ReactJS/static/js/main.3fb98de6.chunk.js.map",
+    "main.js": "/Random-Quote-Generator-with-ReactJS/static/js/main.8939d472.chunk.js",
+    "main.js.map": "/Random-Quote-Generator-with-ReactJS/static/js/main.8939d472.chunk.js.map",
     "runtime-main.js": "/Random-Quote-Generator-with-ReactJS/static/js/runtime-main.efadbce6.js",
     "runtime-main.js.map": "/Random-Quote-Generator-with-ReactJS/static/js/runtime-main.efadbce6.js.map",
     "static/css/2.a259af82.chunk.css": "/Random-Quote-Generator-with-ReactJS/static/css/2.a259af82.chunk.css",
     "static/js/2.6b6de757.chunk.js": "/Random-Quote-Generator-with-ReactJS/static/js/2.6b6de757.chunk.js",
     "static/js/2.6b6de757.chunk.js.map": "/Random-Quote-Generator-with-ReactJS/static/js/2.6b6de757.chunk.js.map",
     "index.html": "/Random-Quote-Generator-with-ReactJS/index.html",
-    "precache-manifest.ba8581a31de92ab7f9f27e2e1e8d8f9a.js": "/Random-Quote-Generator-with-ReactJS/precache-manifest.ba8581a31de92ab7f9f27e2e1e8d8f9a.js",
+    "precache-manifest.d9ed3032d4e24c33364f4b21a74a288b.js": "/Random-Quote-Generator-with-ReactJS/precache-manifest.d9ed3032d4e24c33364f4b21a74a288b.js",
     "service-worker.js": "/Random-Quote-Generator-with-ReactJS/service-worker.js",
     "static/css/2.a259af82.chunk.css.map": "/Random-Quote-Generator-with-ReactJS/static/css/2.a259af82.chunk.css.map",
     "static/css/main.6bd27ecd.chunk.css.map": "/Random-Quote-Generator-with-ReactJS/static/css/main.6bd27ecd.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a259af82.chunk.css",
     "static/js/2.6b6de757.chunk.js",
     "static/css/main.6bd27ecd.chunk.css",
-    "static/js/main.3fb98de6.chunk.js"
+    "static/js/main.8939d472.chunk.js"
   ]
 }
